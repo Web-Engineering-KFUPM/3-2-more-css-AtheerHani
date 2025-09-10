@@ -133,7 +133,7 @@ Open `styles.css` and complete each TODO.
 }
 ```
 
-#### TODO 3: Fonts & Text
+#### TODO 4: Fonts & Text
 ```css
 .copy .title {
   /* TODO: set the font-size; font-weight; text-transform */
